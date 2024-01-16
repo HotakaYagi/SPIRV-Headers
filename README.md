@@ -1,4 +1,6 @@
 # SPIR-V Headers
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FSPIRV-Headers.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FSPIRV-Headers?ref=badge_shield)
+
 
 This repository contains machine-readable files for the
 [SPIR-V Registry](https://www.khronos.org/registry/spir-v/).
@@ -224,3 +226,6 @@ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 MATERIALS OR THE USE OR OTHER DEALINGS IN THE MATERIALS.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FSPIRV-Headers.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FSPIRV-Headers?ref=badge_large)
